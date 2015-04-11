@@ -1,0 +1,6 @@
+*
+!/.config
+!/.config/terminator
+!/.config/terminator/config
+!/.gitignore.d
+!/.gitignore.d/terminator
