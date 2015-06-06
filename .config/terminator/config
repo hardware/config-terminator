@@ -10,6 +10,19 @@
   hide_window = <Shift><Control>a
 [profiles]
   [[default]]
+    palette = "#1a1a1a:#f4005f:#98e024:#fa8419:#9d65ff:#f4005f:#58d1eb:#c4c5b5:#625e4c:#f4005f:#98e024:#e0d561:#9d65ff:#f4005f:#58d1eb:#f6f6ef"
+    background_color = "#1a1a1a"
+    cursor_color = "#f6f7ec"
+    foreground_color = "#c4c5b5"
+    background_image = None
+    background_darkness = 0.9
+    background_type = transparent
+    scroll_background = False
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
+    font = Menlo for Powerline 11
+  [[Solarized]]
     palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
     foreground_color = "#eee8d5"
     background_color = "#002b36"
